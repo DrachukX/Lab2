@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(65, 180, 65);
+}
+
+a {
+  color: rgb(0, 56, 34);
+}
+
+span {
+  font-style: italic;
+  color: red;
+}
+
+.p_lightgreen {
+  color: lightgreen;
+  text-decoration: underline;
+}
+
+.p_underline {
+  text-decoration: underline;
+}
+
+.img_left {
+  float: left;
+  width: 30%;
+}
+
+.img_right {
+  float: right;
+  width: 30%;
+}
